@@ -8,7 +8,8 @@ I'm an aspiring game developer hailing from the captivating landscapes of South 
 
 Welcome to my corner of the gaming universe! 🎮 Join me on an adventure as I journey through the vast landscapes of game development, drawing inspiration from diverse cultures and experiences. From thrilling adventures to thought-provoking narratives, each project I undertake is a labor of love, crafted with meticulous attention to detail. As an aspiring game developer, I invite you to explore my growing portfolio and witness the evolution of my craft. Together, let's embark on a quest to push boundaries, challenge conventions, and create unforgettable gaming experiences. Stay tuned for exciting updates, devlogs, and glimpses behind the scenes as we embark on this epic journey together! 🚀✨
 
-* 🌍  I'm based in South Africa* 🖥️  See my portfolio at [faraazsuffla.itch.io](http://faraazsuffla.itch.io)
+* 🌍  I'm based in South Africa 
+* 🖥️  See my portfolio at [faraazsuffla.itch.io](http://faraazsuffla.itch.io)
 * ✉️  You can contact me at [faraazsuffla29@gmail.com](mailto:faraazsuffla29@gmail.com)
 * 🧠  I'm learning the Unity game engine, delving into its intricacies to expand my proficiency in game development. My primary focus lies in honing my skills in game design principles, exploring mechanics, level design, and player interaction. Through     Unity, I aim to bring my creative visions to life and craft immersive gaming experiences that captivate audiences.
 * 🤝  I'm open to collaborating on on a wide range of projects within the tech and game development realms. I'm particularly interested in opportunities that allow me to expand my skill set and learn new technologies or methodologies. Whether it's diving into new programming languages, exploring innovative game design concepts, or delving into emerging tech trends, I'm eager to embark on learning journeys while contributing to exciting projects. Let's team up and grow together!
