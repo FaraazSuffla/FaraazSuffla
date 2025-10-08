@@ -1,33 +1,53 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Faraaz Suffla
-=====================================================================================================================================
+# Faraaz Suffla
 
-Computer Science Student and Quality Assurance Engineer
--------------------------------------------------------
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-WebDriver-brightgreen?logo=selenium&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-purple?logo=pandas&logoColor=white)
+![GitHub last commit](https://img.shields.io/github/last-commit/FaraazSuffla/github-ml-scraper?color=orange)
+[![License](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
 
-I'm an aspiring Quality Assurance Engineer with a strong foundation in computer science, currently specializing in game development. My journey in the tech world is driven by a passion for ensuring software quality and delivering exceptional user experiences. With a background in programming using C# and C++, I bring a keen eye for detail and a commitment to excellence in every project I undertake. My focus is on mastering the intricacies of manual and automated testing, bug tracking, and quality assurance methodologies. I aim to bridge the gap between development and end-users by rigorously testing software and enhancing its performance and reliability. Welcome to my corner of the tech universe! 🌐 Dive into my repositories to explore my projects and contributions, where you'll find examples of my work in QA, programming, and software development. Each project reflects my dedication to high standards and my ongoing journey to refine my skills and knowledge. Join me as I continue to explore the world of Quality Assurance, contributing to open-source projects and pushing the boundaries of software quality. Stay tuned for updates, insights, and behind-the-scenes looks at my ongoing development journey. 🚀✨
+👋 Hi, I’m **Faraaz Suffla** – a **QA Automation Engineer** currently pursuing a **BSc in Computer Science: Game Design & Development**.  
+I’m passionate about **test automation**, **game development**, and building tools that improve **quality assurance processes**.
 
-*   🌍  I'm based in South Africa
-*   ✉️  You can contact me at [faraazsuffla29@gmail.com](mailto:faraazsuffla29@gmail.com)
-*   🧠  I'm learning Quality Assurance Engineering by diving deep into automated testing frameworks and tools. My focus is on mastering Selenium for web automation, learning the intricacies of API testing with Postman, and exploring CI/CD pipelines with Jenkins to integrate automated tests into development workflows. Additionally, I am enhancing my skills in bug tracking and test case management using JIRA. In the realm of game development, I am building on my knowledge of C# and C++ and exploring advanced techniques in Unity and Unreal Engine. My focus includes mastering Unreal Engine's capabilities to create immersive gaming experiences and integrating quality assurance practices into game development. I am also delving into Android development, learning how to build and optimize mobile applications to deliver exceptional user experiences across platforms. Through these learning endeavors, I aim to bridge the gap between development and quality assurance, crafting seamless and high-quality software and gaming experiences.
-*   🤝  I'm open to collaborating on a wide range of projects within the tech and game development realms. I'm particularly interested in opportunities that allow me to expand my skill set and learn new technologies or methodologies. Whether it's diving into new programming languages, exploring innovative game design concepts, or delving into emerging tech trends, I'm eager to embark on learning journeys while contributing to exciting projects. Let's team up and grow together!
-*   ⚡  Beyond my enthusiasm for technology and game development, I'm a passionate sports enthusiast, particularly when it comes to football. You'll often find me on the football field, honing my skills and enjoying the camaraderie of team sports. I believe in the importance of staying active and maintaining a healthy balance between work and play. Feel free to strike up a conversation about sports or share your favorite football moments—I'm always up for a chat!
+---
 
+## 🛠️ Skills & Technologies
 
-### Skills 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a>
-                    </p>     
+- **QA Automation:** Selenium WebDriver, PyTest, Postman (API Testing), CI/CD basics  
+- **Programming Languages:** Python, C#, Java (learning), JavaScript (basics)  
+- **Game Development:** Unity (C#), working on indie projects  
+- **Data & Scripting:** Pandas, Web Scraping (Selenium), Git & GitHub  
+- **Learning Goals:** Expanding expertise in automation frameworks, performance testing, and game QA pipelines  
 
-### Socials
-                  
-<p align="left"> <a href="https://www.github.com/FaraazSuffla" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/FaraazSuffla" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+---
 
-### Badges
+## 📚 Education
 
-<b>My GitHub Stats</b>
+🎓 **BSc Computer Science – Game Design & Development**  
+Strong foundation in software engineering, data structures, algorithms, and game systems.
 
-<a href="http://www.github.com/FaraazSuffla"><img src="https://github-readme-stats.vercel.app/api?username=FaraazSuffla&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="FaraazSuffla's GitHub stats" /></a>
+---
 
-<a href="http://www.github.com/FaraazSuffla"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FaraazSuffla&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## 🚀 Featured Project
 
-<a href="https://github.com/FaraazSuffla" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaraazSuffla&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### [GitHub Machine Learning Projects Scraper](https://github.com/FaraazSuffla/github-ml-scraper)
+
+A **web scraping project** that uses **Selenium WebDriver** to collect Machine Learning projects from GitHub Collections.
+
+#### 🔧 Technologies Used
+- Python 3  
+- Selenium WebDriver  
+- Pandas  
+
+#### ⚙️ Setup & Installation
+```bash
+# Clone the repository
+git clone https://github.com/FaraazSuffla/github-ml-scraper.git
+
+# Install dependencies
+pip install selenium pandas
+
+# Download ChromeDriver and update chromedriver_path in the script
+
+# Run the scraper
+python github_scraper.py
