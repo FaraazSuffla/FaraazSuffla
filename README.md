@@ -1,30 +1,31 @@
 # Faraaz Suffla
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-Programming-purple?logo=csharp&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-WebDriver-brightgreen?logo=selenium&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-purple?logo=pandas&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-blueviolet?logo=pandas&logoColor=white)
 ![GitHub last commit](https://img.shields.io/github/last-commit/FaraazSuffla/github-ml-scraper?color=orange)
 [![License](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
 
-👋 Hi, I’m **Faraaz Suffla** – a **QA Automation Engineer** currently pursuing a **BSc in Computer Science: Game Design & Development**.  
-I’m passionate about **test automation**, **game development**, and building tools that improve **quality assurance processes**.
+👋 Hi, I’m **Faraaz Suffla** — a **QA Automation Engineer** currently pursuing a **BSc in Computer Science: Game Design & Development**.  
+I’m passionate about **test automation**, **C# game development**, and building tools that improve **quality assurance processes**.
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-- **QA Automation:** Selenium WebDriver, PyTest, Postman (API Testing), CI/CD basics  
-- **Programming Languages:** Python, C#, Java (learning), JavaScript (basics)  
-- **Game Development:** Unity (C#), working on indie projects  
+- **QA Automation:** Selenium WebDriver, PyTest, Postman (API Testing), CI/CD fundamentals  
+- **Programming Languages:** Python, C#  
+- **Game Development:** Unity (C#) – currently developing indie projects  
 - **Data & Scripting:** Pandas, Web Scraping (Selenium), Git & GitHub  
-- **Learning Goals:** Expanding expertise in automation frameworks, performance testing, and game QA pipelines  
+- **Learning Goals:** Expanding knowledge in automation frameworks, performance testing, and game QA pipelines  
 
 ---
 
 ## 📚 Education
 
 🎓 **BSc Computer Science – Game Design & Development**  
-Strong foundation in software engineering, data structures, algorithms, and game systems.
+Solid foundation in software engineering, algorithms, and interactive game systems.
 
 ---
 
@@ -32,7 +33,7 @@ Strong foundation in software engineering, data structures, algorithms, and game
 
 ### [GitHub Machine Learning Projects Scraper](https://github.com/FaraazSuffla/github-ml-scraper)
 
-A **web scraping project** that uses **Selenium WebDriver** to collect Machine Learning projects from GitHub Collections.
+A **web scraping tool** that uses **Selenium WebDriver** to collect **Machine Learning projects** from GitHub Collections.
 
 #### 🔧 Technologies Used
 - Python 3  
