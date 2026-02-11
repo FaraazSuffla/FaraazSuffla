@@ -7,7 +7,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/FaraazSuffla/github-ml-scraper?color=orange)
 [![License](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
 
-👋 Hi, I’m **Faraaz Suffla** — a **QA Automation Engineer** currently pursuing a **BSc in Computer Science: Game Design & Development**.  
+👋 Hi, I’m **Faraaz Suffla** — a **QA Automation Engineer** currently pursuing a **Bachelor of Computer and Information Sciences in Game Design and Development Degree**.  
 I’m passionate about **test automation**, **C# game development**, and building tools that improve **quality assurance processes**.
 
 ---
