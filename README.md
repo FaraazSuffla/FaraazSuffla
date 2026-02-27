@@ -1,65 +1,107 @@
-# Faraaz Suffla
+<h1 align="center">Hi, I'm Faraaz Suffla 👋</h1>
 
-![Java](https://img.shields.io/badge/Java-17-orange?logo=java)
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-Programming-purple?logo=csharp&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-WebDriver-brightgreen?logo=selenium&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-blueviolet?logo=pandas&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-faraazsuffla-blue?logo=linkedin)
+<p align="center">
+  <b>QA Automation Engineer</b> · <b>Game Developer</b> · <b>South Africa 🇿🇦</b>
+</p>
 
-Hi, I am **Faraaz Suffla** - a **QA Automation Engineer** currently pursuing a **Bachelor of Computer and Information Sciences in Game Design and Development**.
-I am passionate about **test automation**, **C# game development**, and building tools that improve **quality assurance processes**.
-
----
-
-## Skills and Technologies
-
-- **QA Automation:** Selenium WebDriver, TestNG, PyTest, Postman, REST Assured, CI/CD fundamentals
-- **Languages:** Java, Python, C#
-- **Frameworks:** Page Object Model (POM), Cucumber/BDD, Maven
-- **Game Development:** Unity (C#)
-- **Data and Scripting:** Pandas, Web Scraping, Git and GitHub
+<p align="center">
+  <a href="https://www.linkedin.com/in/faraazsuffla">
+    <img src="https://img.shields.io/badge/LinkedIn-faraazsuffla-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/FaraazSuffla">
+    <img src="https://img.shields.io/badge/GitHub-FaraazSuffla-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=FaraazSuffla&style=for-the-badge&color=brightgreen" />
+</p>
 
 ---
 
-## Education
+## 👨‍💻 About Me
 
-**BSc Computer Science - Game Design and Development**
-Solid foundation in software engineering, algorithms, and interactive game systems.
+I'm a **QA Automation Engineer** currently pursuing a **BSc in Game Design and Development**. I'm passionate about building robust test automation frameworks, writing clean code, and developing games in Unity.
 
----
-
-## Featured Projects
-
-### [SeleniumFramework](https://github.com/FaraazSuffla/SeleniumFramework)
-A professional Java Selenium POM Framework built with TestNG, Maven, and Cucumber/BDD for scalable UI and API test automation.
-
-**Tech:** Java 17 | Selenium 4.18 | TestNG | Maven | Cucumber | REST Assured | WebDriverManager
+- 🔭 Currently working on: Java Selenium POM frameworks & REST API testing
+- 🌱 Learning: CI/CD pipelines, Docker, advanced BDD patterns
+- 🎮 Hobby: Unity game development with C#
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/faraazsuffla)
 
 ---
 
-### [GitHub Machine Learning Scraper](https://github.com/FaraazSuffla/github-ml-scraper)
-A web scraping tool that uses Selenium WebDriver to collect Machine Learning projects from GitHub Collections.
+## 🛠️ Tech Stack
 
-**Tech:** Python 3 | Selenium WebDriver | Pandas
+**QA & Automation**
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=flat-square)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white)
+![REST Assured](https://img.shields.io/badge/REST_Assured-2C5F2E?style=flat-square)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+**Game Dev & Tools**
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 ---
 
-### [Katalon E-Commerce Automation](https://github.com/FaraazSuffla/katalon-ecommerce-automation)
-Selenium-based UI automation project using Katalon Studio for e-commerce test coverage.
+## 🚀 Featured Projects
 
-**Tech:** Groovy | Katalon Studio | Selenium
+### 🔬 [Selenium POM Framework](https://github.com/FaraazSuffla/SeleniumFramework)
+> Professional Java Selenium framework with TestNG, Maven, Cucumber/BDD and REST Assured for scalable UI & API automation.
 
----
-
-### [API Testing Project](https://github.com/FaraazSuffla/ApiTestingProject)
-REST API testing suite built in C#.
-
-**Tech:** C#
+`Java 17` `Selenium 4` `TestNG` `Cucumber` `REST Assured` `Maven`
 
 ---
 
-## Connect
+### 🛒 [Katalon E-Commerce Automation](https://github.com/FaraazSuffla/katalon-ecommerce-automation)
+> Selenium-based UI automation suite for e-commerce test coverage using Katalon Studio.
 
-- LinkedIn: [in/faraazsuffla](https://www.linkedin.com/in/faraazsuffla)
-- GitHub: [@FaraazSuffla](https://github.com/FaraazSuffla)
+`Groovy` `Katalon Studio` `Selenium`
+
+---
+
+### 🔌 [API Testing Project](https://github.com/FaraazSuffla/ApiTestingProject)
+> REST API testing suite with comprehensive endpoint coverage built in C#.
+
+`C#` `REST API` `Test Automation`
+
+---
+
+### 🤖 [GitHub ML Scraper](https://github.com/FaraazSuffla/github-ml-scraper)
+> Web scraping tool using Selenium to collect Machine Learning projects from GitHub Collections.
+
+`Python` `Selenium` `Pandas` `Web Scraping`
+
+---
+
+### 🚩 [Capture The Flag AI](https://github.com/FaraazSuffla/CaptureTheFlagAI)
+> Unity game featuring AI agents competing in a capture the flag scenario.
+
+`C#` `Unity` `AI` `Game Development`
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FaraazSuffla&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaraazSuffla&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FaraazSuffla&theme=tokyonight&hide_border=true" width="60%" />
+</p>
+
+---
+
+<p align="center">⚡ <i>Building quality software, one test at a time.</i></p>
