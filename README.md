@@ -64,7 +64,7 @@ I'm a **QA Automation Engineer** currently pursuing a **BSc in Game Design and D
 
 ---
 
-### 🔬 [Selenium POM Framework](https://github.com/FaraazSuffla/SeleniumFramework)
+### 🔬 [Selenium POM Framework](https://github.com/FaraazSuffla/selenium-pom-framework)
 > Professional Java Selenium framework with TestNG, Maven, Cucumber/BDD and REST Assured for scalable UI & API automation.
 
 `Java 17` `Selenium 4` `TestNG` `Cucumber` `REST Assured` `Maven`
