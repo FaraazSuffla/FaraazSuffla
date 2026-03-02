@@ -32,6 +32,7 @@ I'm a **QA Automation Engineer** currently pursuing a **BSc in Game Design and D
 **QA & Automation**
 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=flat-square)
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white)
@@ -55,6 +56,13 @@ I'm a **QA Automation Engineer** currently pursuing a **BSc in Game Design and D
 ---
 
 ## 🚀 Featured Projects
+
+### 🤖 [AI Test Case Generator](https://github.com/FaraazSuffla/ai-test-case-generator) `NEW`
+> CLI tool that uses Claude or OpenAI to generate structured Playwright and Gherkin test cases from any URL or feature description. Includes demo mode, HTML coverage reports, and cost tracking.
+
+`Python` `Playwright` `Claude API` `OpenAI` `Gherkin` `Rich CLI`
+
+---
 
 ### 🔬 [Selenium POM Framework](https://github.com/FaraazSuffla/SeleniumFramework)
 > Professional Java Selenium framework with TestNG, Maven, Cucumber/BDD and REST Assured for scalable UI & API automation.
