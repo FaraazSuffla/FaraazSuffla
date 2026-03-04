@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Faraaz Suffla 👋</h1>
 
 <p align="center">
-  <b>QA Automation Engineer</b> · <b>Game Developer</b> · <b>South Africa 🇿🇦</b>
+  <b>QA Automation Engineer</b> · <b>AI-Augmented Testing</b> · <b>South Africa 🇿🇦</b>
 </p>
 
 <p align="center">
@@ -18,11 +18,12 @@
 
 ## 👨‍💻 About Me
 
-I'm a **QA Automation Engineer** currently pursuing a **BSc in Game Design and Development**. I'm passionate about building robust test automation frameworks, writing clean code, and developing games in Unity.
+I'm a **QA Automation Engineer** building modern test automation tooling that combines traditional frameworks with AI. I focus on solving real testing pain points — flaky locators, test maintenance overhead, and the gap between AI-generated code and production-ready test suites.
 
-- 🔭 Currently working on: Java Selenium POM frameworks & REST API testing
-- 🌱 Learning: CI/CD pipelines, Docker, advanced BDD patterns
-- 🎮 Hobby: Unity game development with C#
+- 🔭 Currently building: **[Breadcrumb](https://github.com/FaraazSuffla/breadcrumb)** — a self-healing test framework for Playwright
+- 🤖 Recently shipped: **[AI Test Case Generator](https://github.com/FaraazSuffla/ai-test-case-generator)** — CLI tool using LLMs to generate structured test cases
+- 🛠️ Core strengths: Test framework design, CI/CD pipelines, Page Object Model architecture, API testing
+- 🎮 Side interest: Unity game development with C#
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/faraazsuffla)
 
 ---
@@ -38,36 +39,57 @@ I'm a **QA Automation Engineer** currently pursuing a **BSc in Game Design and D
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white)
 ![REST Assured](https://img.shields.io/badge/REST_Assured-2C5F2E?style=flat-square)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+
+**AI & DevOps**
+
+![Anthropic](https://img.shields.io/badge/Claude_API-191919?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 **Game Dev & Tools**
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 [AI Test Case Generator](https://github.com/FaraazSuffla/ai-test-case-generator) `NEW`
-> CLI tool that uses Claude or OpenAI to generate structured Playwright and Gherkin test cases from any URL or feature description. Includes demo mode, HTML coverage reports, and cost tracking.
+### 🍞 [Breadcrumb](https://github.com/FaraazSuffla/breadcrumb) `NEW`
+> Self-healing test framework for Playwright. Fingerprints every element your tests touch and automatically recovers broken locators using multi-signal similarity scoring. Zero infrastructure, zero API keys — just `pip install` and a one-line wrapper.
 
-`Python` `Playwright` `Claude API` `OpenAI` `Gherkin` `Rich CLI`
+`Python` `Playwright` `SQLite` `pytest Plugin` `Similarity Algorithms` `GitHub Actions`
+
+---
+
+### 🤖 [AI Test Case Generator](https://github.com/FaraazSuffla/ai-test-case-generator)
+> CLI tool that uses Claude or OpenAI to generate structured Playwright and Gherkin test cases from any URL or feature description. Includes demo mode (no API key needed), accessibility analysis, conftest.py generation, HTML coverage reports, and cost tracking.
+
+`Python` `Claude API` `OpenAI` `Playwright` `Gherkin` `Rich CLI` `GitHub Actions`
 
 ---
 
 ### 🔬 [Selenium POM Framework](https://github.com/FaraazSuffla/selenium-pom-framework)
-> Professional Java Selenium framework with TestNG, Maven, Cucumber/BDD and REST Assured for scalable UI & API automation.
+> Professional Java Selenium framework using Page Object Model with TestNG, running parallel tests across Chrome and Firefox via GitHub Actions against the SauceDemo application. Includes screenshot capture on failure and CI artifact uploads.
 
-`Java 17` `Selenium 4` `TestNG` `Cucumber` `REST Assured` `Maven`
+`Java 17` `Selenium 4` `TestNG` `Maven` `GitHub Actions` `Parallel Execution`
+
+---
+
+### 🔌 [API Testing Project](https://github.com/FaraazSuffla/ApiTestingProject)
+> REST API testing suite with comprehensive endpoint coverage built in C#.
+
+`C#` `REST API` `.NET` `Test Automation`
 
 ---
 
@@ -75,13 +97,6 @@ I'm a **QA Automation Engineer** currently pursuing a **BSc in Game Design and D
 > Selenium-based UI automation suite for e-commerce test coverage using Katalon Studio.
 
 `Groovy` `Katalon Studio` `Selenium`
-
----
-
-### 🔌 [API Testing Project](https://github.com/FaraazSuffla/ApiTestingProject)
-> REST API testing suite with comprehensive endpoint coverage built in C#.
-
-`C#` `REST API` `Test Automation`
 
 ---
 
